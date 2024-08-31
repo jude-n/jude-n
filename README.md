@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif?cid=ecf05e47vj3zyp9ndt3kiacqqs23g7efuyi4wmgs7hk3pa8w&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" style="width: 100px; height: auto; margin-right: 10px;" />
-  <h1 style="margin: 0;">Greetings from the Matrix</h1>
+  <h1 style="margin: 0;">Greetings from the Matrix 👋</h1>
 </div>
 
   
@@ -27,51 +26,39 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
-
  <h2>🧑🏾‍💻 &nbsp;About Me</h2>
 
 I'm a dedicated full-stack developer with a penchant for crafting robust, reliable software. Beyond code, I'm a connoisseur of puns, a cinephile, and a series enthusiast. While I may not have a feline companion or a caffeine addiction, I am committed to creating innovative software that makes a positive impact.
 </br>
-</br>
-
-
 <h2>My Secret Sauce</h2>
 ---
-##### Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,php&perline=3" />
-  </a>
-</p>
 
+<br>
+
+##### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,php)](https://skillicons.dev)
+<br>
+<br>
 ##### Front-end
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,alpinejs,vue&perline=3" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,alpinejs,vue)](https://skillicons.dev)
+<br>
+<br>
 
 ##### Back-end
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,fastapi,mysql,nodejs,npm&perline=3" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=laravel,fastapi,mysql,nodejs,npm)](https://skillicons.dev)
+<br>
+<br>
 
 ##### DevOps/Versioning
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,bitbucket&perline=3" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,bitbucket)](https://skillicons.dev)
+<br>
+<br>
 
 ##### Software Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,phpstorm,pycharm,vscode,sublime,&perline=3" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=postman,phpstorm,pycharm,vscode,sublime)](https://skillicons.dev)
+
 
 
 
