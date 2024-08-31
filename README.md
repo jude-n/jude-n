@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 I'm a dedicated full-stack developer with a penchant for crafting robust, reliable software. Beyond code, I'm a connoisseur of puns, a cinephile, and a series enthusiast. While I may not have a feline companion or a caffeine addiction, I am committed to creating innovative software that makes a positive impact.
 </br>
 <h2>My Secret Sauce</h2>
----
 
 <br>
 
