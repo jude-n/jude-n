@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
   
-<div style="text-align: center;">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+lifelong+learner%2C+passionate+about;+turning+ideas+into+reality!" alt="Typing Animation">
   </a>
@@ -32,33 +32,36 @@ I'm a dedicated full-stack developer with a penchant for crafting robust, reliab
 </br>
 <h2>My Secret Sauce</h2>
 
-<br>
 
-##### Languages
+#### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,php)](https://skillicons.dev)
 <br>
 <br>
-##### Front-end
+#### Front-end
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,alpinejs,vue)](https://skillicons.dev)
 <br>
 <br>
 
-##### Back-end
+#### Back-end
 [![My Skills](https://skillicons.dev/icons?i=laravel,fastapi,mysql,nodejs,npm)](https://skillicons.dev)
 <br>
 <br>
 
-##### DevOps/Versioning
+#### DevOps/Versioning
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,bitbucket)](https://skillicons.dev)
 <br>
 <br>
 
-##### Software Tools
+#### Software Tools
 [![My Skills](https://skillicons.dev/icons?i=postman,phpstorm,pycharm,vscode,sublime)](https://skillicons.dev)
 
 
+### 🤝🏻 &nbsp;Let's connect!
+Feel free to reach out if you have any questions or just want to chat about coding, movies, games, or sports.
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/judenorvor"><img src="https://img.shields.io/badge/Jude_Norvor-blue?style=for-the-badge&logo=Linkedin"/></a>
+</p>
 
