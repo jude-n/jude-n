@@ -48,7 +48,6 @@ I'm a dedicated full-stack developer with a penchant for crafting robust, reliab
 #### Back-end
 [![My Skills](https://skillicons.dev/icons?i=laravel,fastapi,mysql,nodejs,npm)](https://skillicons.dev)
 <img src="oracle.png" alt="Image Description" width="50" height="50">
-
 <br>
 <br>
 
