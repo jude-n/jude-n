@@ -52,7 +52,7 @@ I'm a dedicated full-stack developer with a penchant for crafting robust, reliab
 <br>
 
 #### DevOps/Versioning
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,github,bitbucket)](https://skillicons.dev)
 <br>
 <br>
 
