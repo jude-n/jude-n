@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 I'm a dedicated full-stack developer with a penchant for crafting robust, reliable software. Beyond code, I'm a connoisseur of puns, a cinephile, and a series enthusiast. While I may not have a feline companion or a caffeine addiction, I am committed to creating innovative software that makes a positive impact.
 </br>
 </br>
+## 🎨 Design Principles & Patterns
+
+- **Domain-Driven Design (DDD)**
+- **SOLID Principles**
+- **Dependency Injection (DI)**
+- **Repository Pattern**
+  
 <h2>🧑🏾‍🍳 &nbsp;My Secret Sauce</h2>
 
 
@@ -56,8 +63,11 @@ I'm a dedicated full-stack developer with a penchant for crafting robust, reliab
 <br>
 <br>
 
-#### Software Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,phpstorm,pycharm,vscode,sublime)](https://skillicons.dev)
+#### Software Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=postman,phpstorm,pycharm,vscode,sublime,linux)](https://skillicons.dev)
+<img src="https://img.icons8.com/color/48/microsoft-teams.png" alt="Teams" width="40" height="40">  
+<img src="https://img.icons8.com/color/48/slack.png" alt="Slack" width="40" height="40">  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="40" height="40">
+<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40"> <img src="https://img.icons8.com/color/48/amazon-s3.png" alt="Amazon S3" width="40" height="40">  <img src="https://img.icons8.com/color/48/jira.png" alt="Jira" width="40" height="40"> 
 
 
 ### 🤝🏻 &nbsp;Let's connect!
